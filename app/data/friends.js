@@ -1,4 +1,5 @@
-var friends = [{
+var friends = [
+  {
   name: "Ahmed",
   photo: "test.jpg",
   scores:[
@@ -29,9 +30,7 @@ var friends = [{
       1,
       1
     ]
-},
-
-
+}
 ];
 
 module.exports = friends;
