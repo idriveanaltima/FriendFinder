@@ -2,7 +2,7 @@
 
 ### Link to Heroku
 
-Haven't deployed to heroku cause my loops are broken.
+https://gentle-coast-35035.herokuapp.com/
 
 ### Overview
 
