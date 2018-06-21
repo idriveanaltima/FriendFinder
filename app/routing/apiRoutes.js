@@ -42,6 +42,7 @@ module.exports = function (app) {
 		});
 		bestMatch.name = friendName;
 		bestMatch.photo = friendPhoto;
+		friends.push(req.body);
 		res.json(bestMatch);
 	});
 };
